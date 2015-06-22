@@ -1,0 +1,2 @@
+# gitskills
+About git clone 
